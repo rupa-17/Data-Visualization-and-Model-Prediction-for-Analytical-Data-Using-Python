@@ -29,7 +29,7 @@ The project transforms raw data into meaningful insights through data preprocess
 - **Machine Learning:** Scikit-learn, if implemented
 - **Frontend:** HTML, CSS, JavaScript, if used
 
-# 📂Project Structure
+## 📂Project Structure
 
 Data-Visualization-and-Model-Prediction/
 │
