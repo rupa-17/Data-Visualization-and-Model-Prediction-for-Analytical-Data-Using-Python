@@ -29,8 +29,8 @@ The project transforms raw data into meaningful insights through data preprocess
 - **Machine Learning:** Scikit-learn, if implemented
 - **Frontend:** HTML, CSS, JavaScript, if used
 
-## 📂 Project Structure
-text...\
+# 📂Project Structure
+
 Data-Visualization-and-Model-Prediction/
 │
 ├── MyApp/                 # Application module
@@ -41,7 +41,6 @@ Data-Visualization-and-Model-Prediction/
 ├── manage.py              # Django management script
 ├── .gitignore             # Git ignore configuration
 └── README.md              # Project documentation
-...
 
 ## ⚙️ Installation and Setup
 
