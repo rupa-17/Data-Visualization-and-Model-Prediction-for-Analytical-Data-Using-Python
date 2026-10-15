@@ -29,19 +29,25 @@ The project transforms raw data into meaningful insights through data preprocess
 - **Machine Learning:** Scikit-learn, if implemented
 - **Frontend:** HTML, CSS, JavaScript, if used
 
-## 📂Project Structure
-
+## 📂 Project Structure
+```text
 Data-Visualization-and-Model-Prediction/
 │
-├── MyApp/                 # Application module
-├── MyProject/             # Main project configuration
-├── OutputScreenshots/     # Screenshots of project outputs
+├── MyApp/                  # Application module
+│
+├── MyProject/              # Main project configuration
+│
+├── OutputScreenshots/      # Screenshots of project outputs
+│
 ├── media/
-│   └── datasets/          # Dataset storage
-├── manage.py              # Django management script
-├── .gitignore             # Git ignore configuration
-└── README.md              # Project documentation
-
+│   └── datasets/           # Dataset storage
+│
+├── manage.py               # Django management script
+│
+├── .gitignore              # Git ignore configuration
+│
+└── README.md               # Project documentation
+```
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the Repository
