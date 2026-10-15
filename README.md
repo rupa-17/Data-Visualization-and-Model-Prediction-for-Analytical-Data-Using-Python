@@ -30,7 +30,7 @@ The project transforms raw data into meaningful insights through data preprocess
 - **Frontend:** HTML, CSS, JavaScript, if used
 
 ## 📂 Project Structure
-
+text...\
 Data-Visualization-and-Model-Prediction/
 │
 ├── MyApp/                 # Application module
@@ -41,7 +41,7 @@ Data-Visualization-and-Model-Prediction/
 ├── manage.py              # Django management script
 ├── .gitignore             # Git ignore configuration
 └── README.md              # Project documentation
-
+...
 
 ## ⚙️ Installation and Setup
 
